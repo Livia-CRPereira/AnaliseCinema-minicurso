@@ -8,7 +8,7 @@ Limite, Normalidade, Correlação e Regressão.</p>
 <p>O repositório apresenta um Notebook Python, no qual baseie minha apresentação. Além disso, possui vários arquivos csv com minha base de dados,
 que manipulei para unir em apenas 2 principais (que estão na pasta principal). Todos os dados foram recolhidos da base presente no site do gov.br, além 
 disso, criei uma base de dados fictícia com a contribuição do ChatGPT para realizar as práticas de previsão. </p>
-<p>[**Base de dados depois da filtragem**](https://drive.google.com/drive/folders/1xks37h1l5kfCJ0TEXtwI0oygerjBAh-l?usp=drive_link)</p>
+<p> ![Base de dados depois da filtragem](https://drive.google.com/drive/folders/1xks37h1l5kfCJ0TEXtwI0oygerjBAh-l?usp=drive_link)</p>
 
  ![Badge Desenvolvido](https://img.shields.io/badge/STATUS-Finalizado-green)
 
